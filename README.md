@@ -14,12 +14,6 @@ By leveraging this technology, LeafTrack acts as an early warning system for any
 
 <b>The Graph </b> is used in the LeafTrack project to request information and save it in the blockchain-based system, ensuring immutability and transparency of the data.
 
-Link: <a href="https://thegraph.com/hosted-service/subgraph/pradeepvarma22/leaf-track
-">https://thegraph.com/hosted-service/subgraph/pradeepvarma22/leaf-track
-</a>
-
-<img src="./leaftrack-subgraph/images/leaf.png" />
-
 <b>Chainlink </b> is used to connect smart contracts with off-chain data and services. In the LeafTrack project, it ensures that the data from satellite images is securely and accurately transferred to the blockchain-based system.
 
 <b>Filecoin</b> is used in the LeafTrack project to save analyzed and compressed satellite images in an IPFS system. This ensures that the images are easily accessible, yet remain secure and decentralized.
